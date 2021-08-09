@@ -1,16 +1,5 @@
-# falafel
+# Eat and Go
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter Arab E-commerce food order application using APIs , Provider , SharedPrefrences and Http
+Splash , login and Sign up screens , sharedprefrences to save user's token to check if user login then navigate derictely to home page , unless navigate to 
+register screen , user can check products , add to cart , delete , order the food , add to favorites also user can edit his profile and logout
